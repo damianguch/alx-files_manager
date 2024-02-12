@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+__pycache__
+redis-6.0.10.tar.gz
+redis-6.0.10
